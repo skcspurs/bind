@@ -1,0 +1,356 @@
+zone "hgtv.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "foodnetwork.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "cloudinary.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "xbox.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "auth.adobe.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "watchabc.go.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "edgedatg.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "cbssports.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "amazonaws.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "nbcsports.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "anvato.net." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "theplatform.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "foxsports.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "netflix.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "hulu.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "hbonow.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "hbogo.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "amazon.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "amazon.co.uk." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "crackle.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "pandora.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "vudu.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "blinkbox.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "tvegolf-i.Akamaihd.net." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "tvenbcsn-i.Akamaihd.net." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "abc.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "abc.go.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "fox.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "link.theplatform.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "nbc.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "nbcuni.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "broadband.espn.go.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "ip2location.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "pbs.org." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "warnerbros.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "southpark.cc.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "ipad-streaming.cbs.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "brightcove.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "cwtv.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "spike.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "go.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "mtv.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "mtvnservices.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "video.dl.playstation.net." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "uplynk.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "maxmind.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "disney.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "disneyjunior.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "marketplace-xb.xboxlive.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "lovefilm.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "turner.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "amctv.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "sho.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "mog.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "wdtvlive.com." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "beinsportsconnect.tv." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "beinsportsconnect.net." {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+zone "bbc.co.uk." {
+        type master;
+        file "/etc/bind/db.unblocker";
+};
+
+zone "bbci.co.uk." {
+        type master;
+        file "/etc/bind/db.unblocker";
+};
+
+zone "akamaihd.net" {
+    type master;
+    file "/etc/bind/db.unblocker";
+};
+
+#zone "fbchdvod-f.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+#zone "pga-lh.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+#zone "tveusa-vh.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+#zone "besmenabs-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+#
+#zone "besmenaas-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+#
+#zone "besmenacs-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+#
+#zone "besmenads-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+#
+#zone "besmenaes-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+#
+#zone "besmenafs-s.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+#zone "tve_nbc-vh.akamaihd.net." {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+#zone "ftve7300-i.akamaihd.net" {
+#    type master;
+#    file "/etc/bind/db.unblocker";
+#};
+
+# vim: set filetype=conf
